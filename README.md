@@ -46,7 +46,7 @@ while True:
           print("Client > ",ClientMessage)
           msg=input("Server > ")
           c.send(msg.encode())
-     ```
+   ```
 
 
 OUTPUT :
